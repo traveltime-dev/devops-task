@@ -6,4 +6,4 @@ In this task it will be required to show coding skills while writing a Lithuania
 
 Details of the task are available in task.txt
 
-The solution must be written in Scala and adhere to functional programming principles (no vars, no mutable data structures, etc.) - basically adhere to Scalazzi principles found here: http://www.lihaoyi.com/post/StrategicScalaStylePracticalTypeSafety.html#scalazzi-scala
+The solution must be written in Scala and adhere to functional programming principles (no vars, no mutable data structures, etc.) - basically adhere to Scalazzi: http://www.lihaoyi.com/post/StrategicScalaStylePracticalTypeSafety.html#scalazzi-scala
