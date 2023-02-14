@@ -2,7 +2,7 @@
 
 This is a test assignment for DevOps position candidates.
 
-In this task it will be required to show coding skills while writing a Lithuanian/Russian card game called 'Stupid'.
+In this task it will be required to show coding skills while writing a Lithuanian card game called 'Stupid'.
 
 Details of the task are available in task.txt
 
